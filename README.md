@@ -1,5 +1,5 @@
 # "Egg" is a multi-module application - a social network.
-Maven, Spring MVC, JSON.
+Maven, Spring MVC, Kotlin JSON.
 
 ## How to run this project?
 ```
